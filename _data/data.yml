@@ -223,10 +223,11 @@ education:
 publications:
     title: Publications
     intro: |
-      All the papers are about Seismology.
+      All the papers are about Seismology. I am very interested in studying some new methods to improve seismic data processing, such as waveform denoising, 
+      seismic detection and location, clustering of volcanic signals, and measurement of ambient noise cross-correlation function.
     papers:
       - title: Improving the signal-to-noise ratio of single-channel earthquake data with an attention-based UNet3+ and phase-difference mask
-        link: "#"
+        link: "https://www.techrxiv.org/users/771224/articles/1217493-improving-the-signal-to-noise-ratio-of-single-channel-earthquake-data-with-an-attention-based-unet3-and-phase-difference-mask"
         authors: Yazhuo Wang & Youyi Ruan
 
       # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
