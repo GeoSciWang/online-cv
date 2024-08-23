@@ -229,6 +229,7 @@ publications:
       - title: Improving the signal-to-noise ratio of single-channel earthquake data with an attention-based UNet3+ and phase-difference mask
         link: "https://www.techrxiv.org/users/771224/articles/1217493-improving-the-signal-to-noise-ratio-of-single-channel-earthquake-data-with-an-attention-based-unet3-and-phase-difference-mask"
         authors: Yazhuo Wang & Youyi Ruan
+        article website: https://www.techrxiv.org/users/771224
 
       # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
       #   link: "#"
